@@ -14,3 +14,4 @@ This repository contains my Python solutions for problems from the [Rosalind](ht
 | 003 | Complementing a Strand of DNA    | [003_revc.py](stronghold/003_revc.py) |
 | 004 | Rabbits and Recurrence Relations | [004_fib.py](stronghold/004_fib.py)   |
 | 005 | Identifying Unknown DNA Quickly  | [005_gc.py](stronghold/005_gc.py)     |
+| 006 | Counting Point Mutations         | [006_hamm.py](stronghold/006_hamm.py) |
