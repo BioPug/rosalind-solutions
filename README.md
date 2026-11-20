@@ -16,3 +16,4 @@ This repository contains my Python solutions for problems from the [Rosalind](ht
 | 005 | Identifying Unknown DNA Quickly  | [005_gc.py](stronghold/005_gc.py)     |
 | 006 | Counting Point Mutations         | [006_hamm.py](stronghold/006_hamm.py) |
 | 007 | Mendel's First Law               | [007_iprb.py](stronghold/007_iprb.py) |
+| 008 | Translating RNA into Protein     | [008_prot.py](stronghold/008_prot.py) |
