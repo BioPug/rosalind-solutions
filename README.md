@@ -19,3 +19,4 @@ This repository contains my Python solutions for problems from the [Rosalind](ht
 | 008 | Translating RNA into Protein     | [008_prot.py](stronghold/008_prot.py) |
 | 009 | Finding a Motif in DNA           | [009_subs.py](stronghold/009_subs.py) |
 | 010 | Consensus and Profile            | [010_cons.py](stronghold/010_cons.py) |
+| 011 | Mortal Fibonacci Rabbits         | [011_fibd.py](stronghold/011_fibd.py) |
